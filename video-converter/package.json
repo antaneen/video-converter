@@ -1,0 +1,8 @@
+{
+  "name": "video-converter",
+  "version": "1.0.0",
+  "description": "Browser-based video converter",
+  "scripts": {
+    "start": "serve"
+  }
+}
